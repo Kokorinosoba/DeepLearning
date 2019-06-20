@@ -1,5 +1,8 @@
 # Source cord
 deep_learning_from_scratch/
+!/deep_learning_from_scratch/**/*.ipynb
+deep_learning_from_scratch_2/
+!/deep_learning_from_scratch_2/**/*.ipynb
 
 ### https://raw.github.com/github/gitignore/c1b7904af6689bd01646f008b0561d4f19a0e972/Python.gitignore
 
